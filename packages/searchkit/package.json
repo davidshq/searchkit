@@ -47,7 +47,7 @@
     "eslint": "^7.32.0",
     "eslint-config-custom": "*",
     "jest": "29.1.2",
-    "nock": "^14.0.0-beta.4",
+    "nock": "^14.0.0-beta.15",
     "node-fetch": "^2.6.6",
     "ts-jest": "29.0.3",
     "tsconfig": "*",
